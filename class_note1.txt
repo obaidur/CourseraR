@@ -1,0 +1,13 @@
+getwd() => to get the working directory
+open text editor and type the code and save
+
+dir()
+
+to setup default working directory go to misc and select the project folder
+
+myfunction will show me the code
+
+source("myfuction.r") will load any function
+
+to run just call the function
+ 
